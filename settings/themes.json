@@ -17,7 +17,11 @@
   },
   "Basic": {
     "backgroundColor": "#eee",
-    "foregroundColor": "#de1e3d"
+    "foregroundColor": "#fff",
+    "waveColor": "#f38c21",
+    "pattern": "bars",
+    "backgroundImage": "strokes.png",
+    "captionFont": "bold 52px 'Lato'"
   },
   "Neon": {
     "backgroundColor": "#556270",
